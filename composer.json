@@ -1,5 +1,5 @@
 {
-    "name": "joffe/think-redshift",
+    "name": "gclinux/think-redshift",
     "type": "library",
     "description": "thinkphp5 aws redshift dirver",
     "license": "MIT",
